@@ -5,6 +5,7 @@
 - Devika https://github.com/stitionai/devika
 - OpenDevin https://github.com/OpenDevin/OpenDevin
 - Maestro https://twitter.com/skirano/status/1770221447606104154
+- gpt-engineer https://github.com/gpt-engineer-org/gpt-engineer
 
 ## frameworks/tools
 - Dspy https://github.com/stanfordnlp/dspy
