@@ -4,25 +4,35 @@
 - MetaGPT https://github.com/geekan/MetaGPT/tree/main/examples/di
 - Devika https://github.com/stitionai/devika
 - OpenDevin https://github.com/OpenDevin/OpenDevin
+- Maestro https://twitter.com/skirano/status/1770221447606104154
 
 ## frameworks/tools
 - Dspy https://github.com/stanfordnlp/dspy
 - Tool use https://twitter.com/omarsar0/status/1770497515898433896
 - Strong types https://github.com/bananaml/fructose
 - Phidata https://github.com/phidatahq/phidata/tree/main/cookbook/claude
-- Maestro https://twitter.com/skirano/status/1770221447606104154
+- RepoToTextForLLMs https://twitter.com/skirano/status/1769741555424796752
+
+## agent
+- crewAI https://github.com/joaomdmoura/crewAI
+- autogen https://www.microsoft.com/en-us/research/project/autogen/
 
 ## Prompt
-- https://github.com/mshumer/gpt-prompt-engineer
-- https://twitter.com/LangChainAI/status/1770124528322318522
+- gpt-prompt-engineer https://github.com/mshumer/gpt-prompt-engineer
+- Claude-ception https://twitter.com/LangChainAI/status/1770124528322318522
+- Enhancing Few-shot Text-to-SQL Capabilities https://twitter.com/emelia_seles/status/1767797228398342244
+- prompt optimization https://twitter.com/hi_pondai/status/1769445700977221769
 
 ## planning and reasoning 
-- https://allenai.github.io/adaptllm/
+- ADaPT https://allenai.github.io/adaptllm/
 - Step-by-Step Comparisons https://twitter.com/omarsar0/status/1770492690129359135
 - Flow Adhering Planning https://twitter.com/ShamiikRoy/status/1768007927342969281
-- CoT https://twitter.com/AndyLin2001/status/1767075865127719101
 - CoT improves performance for code generation https://twitter.com/ellev3n11/status/1769574342206038201
 - Implicit CoT https://twitter.com/Euclaise_/status/1769424716568072641
+- RAT https://twitter.com/AndyLin2001/status/1767075865127719101
+- Self discover https://twitter.com/hi_pondai/status/1769445700977221769
+- Self-Correct Their Reasoning https://twitter.com/jefffhj/status/1709634179594703187
+- Dspy optimization https://twitter.com/CShorten30/status/1768780338715623907
 
 ## LLM coding ability
 - Claude's responses superior https://twitter.com/IntuitMachine/status/1770513600689410534
@@ -30,6 +40,9 @@
 
 ## coding paper
 - Microfot AutoDev https://twitter.com/Marktechpost/status/1770294548629189071
+- Coding preference https://twitter.com/MWeyssow/status/1768623185107550295
+- Livecodebench https://twitter.com/StringChaos/status/1768264053879873668
+- AgentCoder https://twitter.com/debarghya_das/status/1768468420058902536
 
 ## data labeling
 - https://github.com/HumanSignal/Adala
