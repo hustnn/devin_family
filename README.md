@@ -18,6 +18,7 @@
 - crewAI https://github.com/joaomdmoura/crewAI
 - autogen https://www.microsoft.com/en-us/research/project/autogen/
 - AgentLite https://github.com/SalesforceAIResearch/AgentLite
+- AgentVerse https://github.com/OpenBMB/AgentVerse
 
 ## Prompt
 - gpt-prompt-engineer https://github.com/mshumer/gpt-prompt-engineer
