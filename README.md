@@ -1,6 +1,5 @@
 # devin_family
 ## open source implementaiton
-
 - MetaGPT https://github.com/geekan/MetaGPT/tree/main/examples/di
 - Devika https://github.com/stitionai/devika
 - OpenDevin https://github.com/OpenDevin/OpenDevin
@@ -19,6 +18,9 @@
 - autogen https://www.microsoft.com/en-us/research/project/autogen/
 - AgentLite https://github.com/SalesforceAIResearch/AgentLite
 - AgentVerse https://github.com/OpenBMB/AgentVerse
+
+## AI OS
+- AIOS https://github.com/agiresearch/AIOS
 
 ## Prompt
 - gpt-prompt-engineer https://github.com/mshumer/gpt-prompt-engineer
