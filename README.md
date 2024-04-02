@@ -12,7 +12,7 @@
 - Tool use https://twitter.com/omarsar0/status/1770497515898433896
 - Strong types https://github.com/bananaml/fructose
 - Phidata https://github.com/phidatahq/phidata/tree/main/cookbook/claude
-- RepoToTextForLLMs https://twitter.com/skirano/status/1769741555424796752
+- RepoToTextForLLMs https://github.com/Doriandarko/RepoToTextForLLMs
 
 ## agent
 - crewAI https://github.com/joaomdmoura/crewAI
