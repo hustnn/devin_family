@@ -19,6 +19,7 @@
 - autogen https://www.microsoft.com/en-us/research/project/autogen/
 - AgentLite https://github.com/SalesforceAIResearch/AgentLite
 - AgentVerse https://github.com/OpenBMB/AgentVerse
+- OneTwo https://github.com/google-deepmind/onetwo
 
 ## AI OS
 - AIOS https://github.com/agiresearch/AIOS
