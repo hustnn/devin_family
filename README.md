@@ -38,6 +38,7 @@
 - stream of search https://github.com/kanishkg/stream-of-search
 - ambigdocs https://ambigdocs.github.io/
 - USACO https://github.com/princeton-nlp/USACO
+- Logic-LLM https://github.com/teacherpeterpan/Logic-LLM
 
 ## AI OS
 - AIOS https://github.com/agiresearch/AIOS
@@ -68,11 +69,13 @@
 - Claude's responses superior https://twitter.com/IntuitMachine/status/1770513600689410534
 - Claude 3 Opus https://twitter.com/alexalbert__/status/1767258557039378511
 
-## coding paper
+## paper/article
 - Microfot AutoDev https://twitter.com/Marktechpost/status/1770294548629189071
 - Coding preference https://twitter.com/MWeyssow/status/1768623185107550295
 - Livecodebench https://twitter.com/StringChaos/status/1768264053879873668
 - AgentCoder https://twitter.com/debarghya_das/status/1768468420058902536
+- 10 agent paper https://twitter.com/GptMaestro/status/1780605438092013797
+- OpenChatML https://twitter.com/erhartford/status/1780027791641391489
 
 ## data labeling
 - https://github.com/HumanSignal/Adala
