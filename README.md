@@ -10,6 +10,7 @@
 - machine learning agent https://github.com/WecoAI/aideml
 - CodeHalu https://github.com/yuchen814/CodeHalu
 - trove https://github.com/zorazrw/trove
+- ChatDev https://github.com/OpenBMB/ChatDev
 
 ## frameworks/tools/application
 - Dspy https://github.com/stanfordnlp/dspy
@@ -45,6 +46,7 @@
 - RoT https://github.com/huiwy/reflection-on-trees
 - LanguageModelsasCompilers https://github.com/kyle8581/LanguageModelsasCompilers
 - lumos https://github.com/allenai/lumos
+- ReaLMistake https://github.com/psunlpgroup/ReaLMistake
 
 ## AI OS
 - AIOS https://github.com/agiresearch/AIOS
@@ -58,6 +60,8 @@
 - PromptReps https://github.com/ielab/PromptReps
 - PromptAgent https://github.com/XinyuanWangCS/PromptAgent
 - promptbench https://github.com/microsoft/promptbench
+- coding prompt https://twitter.com/seclink/status/1776408191557075052
+- Prompt Engineer https://twitter.com/JagersbergKnut/status/1776230873525788903
 
 ## planning and reasoning 
 - ADaPT https://allenai.github.io/adaptllm/
