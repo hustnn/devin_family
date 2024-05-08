@@ -37,6 +37,7 @@
 - agent search tree https://github.com/andyz245/LanguageAgentTreeSearch
 - stream of search https://github.com/kanishkg/stream-of-search
 - ambigdocs https://ambigdocs.github.io/
+- USACO https://github.com/princeton-nlp/USACO
 
 ## AI OS
 - AIOS https://github.com/agiresearch/AIOS
