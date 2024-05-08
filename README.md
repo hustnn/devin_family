@@ -6,6 +6,7 @@
 - Maestro https://twitter.com/skirano/status/1770221447606104154
 - gpt-engineer https://github.com/gpt-engineer-org/gpt-engineer
 - SWE-agent https://github.com/princeton-nlp/SWE-agent
+- auto-coder https://github.com/allwefantasy/auto-coder
 
 ## frameworks/tools
 - Dspy https://github.com/stanfordnlp/dspy
@@ -20,6 +21,8 @@
 - AgentLite https://github.com/SalesforceAIResearch/AgentLite
 - AgentVerse https://github.com/OpenBMB/AgentVerse
 - OneTwo https://github.com/google-deepmind/onetwo
+- agentkit https://github.com/holmeswww/AgentKit
+- Xagent https://github.com/OpenBMB/XAgent
 
 ## AI OS
 - AIOS https://github.com/agiresearch/AIOS
@@ -29,6 +32,7 @@
 - Claude-ception https://twitter.com/LangChainAI/status/1770124528322318522
 - Enhancing Few-shot Text-to-SQL Capabilities https://twitter.com/emelia_seles/status/1767797228398342244
 - prompt optimization https://twitter.com/hi_pondai/status/1769445700977221769
+- advprompter https://github.com/facebookresearch/advprompter
 
 ## planning and reasoning 
 - ADaPT https://allenai.github.io/adaptllm/
