@@ -7,6 +7,9 @@
 - gpt-engineer https://github.com/gpt-engineer-org/gpt-engineer
 - SWE-agent https://github.com/princeton-nlp/SWE-agent
 - auto-coder https://github.com/allwefantasy/auto-coder
+- machine learning agent https://github.com/WecoAI/aideml
+- CodeHalu https://github.com/yuchen814/CodeHalu
+- trove https://github.com/zorazrw/trove
 
 ## frameworks/tools
 - Dspy https://github.com/stanfordnlp/dspy
@@ -23,6 +26,11 @@
 - OneTwo https://github.com/google-deepmind/onetwo
 - agentkit https://github.com/holmeswww/AgentKit
 - Xagent https://github.com/OpenBMB/XAgent
+- llm-reasoners https://github.com/maitrix-org/llm-reasoners/
+- OSWorld https://github.com/xlang-ai/OSWorld
+- agent design pattern https://twitter.com/shao__meng/status/1784474864113570027
+- task-decompose https://github.com/zgimszhd61/task-decompose-quickstart
+- JARVIS https://github.com/microsoft/JARVIS
 
 ## AI OS
 - AIOS https://github.com/agiresearch/AIOS
@@ -33,6 +41,8 @@
 - Enhancing Few-shot Text-to-SQL Capabilities https://twitter.com/emelia_seles/status/1767797228398342244
 - prompt optimization https://twitter.com/hi_pondai/status/1769445700977221769
 - advprompter https://github.com/facebookresearch/advprompter
+- PromptReps https://github.com/ielab/PromptReps
+- PromptAgent https://github.com/XinyuanWangCS/PromptAgent
 
 ## planning and reasoning 
 - ADaPT https://allenai.github.io/adaptllm/
@@ -44,6 +54,7 @@
 - Self discover https://twitter.com/hi_pondai/status/1769445700977221769
 - Self-Correct Their Reasoning https://twitter.com/jefffhj/status/1709634179594703187
 - Dspy optimization https://twitter.com/CShorten30/status/1768780338715623907
+- fillerTokens https://github.com/JacobPfau/fillerTokens
 
 ## LLM coding ability
 - Claude's responses superior https://twitter.com/IntuitMachine/status/1770513600689410534
