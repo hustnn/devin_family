@@ -39,6 +39,7 @@
 - ambigdocs https://ambigdocs.github.io/
 - USACO https://github.com/princeton-nlp/USACO
 - Logic-LLM https://github.com/teacherpeterpan/Logic-LLM
+- chain of abstraction https://twitter.com/jerryjliu0/status/1778855608202277156
 
 ## AI OS
 - AIOS https://github.com/agiresearch/AIOS
