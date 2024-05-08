@@ -42,6 +42,9 @@
 - chain of abstraction https://twitter.com/jerryjliu0/status/1778855608202277156
 - graph cot https://github.com/PeterGriffinJin/Graph-CoT
 - Multiplex https://github.com/LCS2-IIITD/Language_Model_Multiplex
+- RoT https://github.com/huiwy/reflection-on-trees
+- LanguageModelsasCompilers https://github.com/kyle8581/LanguageModelsasCompilers
+- lumos https://github.com/allenai/lumos
 
 ## AI OS
 - AIOS https://github.com/agiresearch/AIOS
