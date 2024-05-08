@@ -11,12 +11,15 @@
 - CodeHalu https://github.com/yuchen814/CodeHalu
 - trove https://github.com/zorazrw/trove
 
-## frameworks/tools
+## frameworks/tools/application
 - Dspy https://github.com/stanfordnlp/dspy
 - Tool use https://twitter.com/omarsar0/status/1770497515898433896
 - Strong types https://github.com/bananaml/fructose
 - Phidata https://github.com/phidatahq/phidata/tree/main/cookbook/claude
 - RepoToTextForLLMs https://github.com/Doriandarko/RepoToTextForLLMs
+- storm https://github.com/stanford-oval/storm
+- storm claude https://github.com/angelina-yang/Claude_API_Contest/tree/main
+- MathVC https://github.com/MurongYue/MathVC
 
 ## agent
 - crewAI https://github.com/joaomdmoura/crewAI
@@ -31,6 +34,9 @@
 - agent design pattern https://twitter.com/shao__meng/status/1784474864113570027
 - task-decompose https://github.com/zgimszhd61/task-decompose-quickstart
 - JARVIS https://github.com/microsoft/JARVIS
+- agent search tree https://github.com/andyz245/LanguageAgentTreeSearch
+- stream of search https://github.com/kanishkg/stream-of-search
+- ambigdocs https://ambigdocs.github.io/
 
 ## AI OS
 - AIOS https://github.com/agiresearch/AIOS
@@ -43,6 +49,7 @@
 - advprompter https://github.com/facebookresearch/advprompter
 - PromptReps https://github.com/ielab/PromptReps
 - PromptAgent https://github.com/XinyuanWangCS/PromptAgent
+- promptbench https://github.com/microsoft/promptbench
 
 ## planning and reasoning 
 - ADaPT https://allenai.github.io/adaptllm/
@@ -68,4 +75,7 @@
 
 ## data labeling
 - https://github.com/HumanSignal/Adala
+
+## code interpreter
+- cohere-terrarium https://github.com/cohere-ai/cohere-terrarium
 
