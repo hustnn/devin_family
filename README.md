@@ -1,4 +1,7 @@
 # devin_family
+I am using llm to generate the application according to my requirements, this process highly depends on the code generation ability and agent ability to finish some complex tasks. 
+I did a lot of research on it and make a collection for the reference. Hope it can also help you.
+
 ## open source implementaiton
 - MetaGPT https://github.com/geekan/MetaGPT/tree/main/examples/di
 - Devika https://github.com/stitionai/devika
