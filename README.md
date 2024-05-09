@@ -12,16 +12,6 @@
 - trove https://github.com/zorazrw/trove
 - ChatDev https://github.com/OpenBMB/ChatDev
 
-## frameworks/tools/application
-- Dspy https://github.com/stanfordnlp/dspy
-- Tool use https://twitter.com/omarsar0/status/1770497515898433896
-- Strong types https://github.com/bananaml/fructose
-- Phidata https://github.com/phidatahq/phidata/tree/main/cookbook/claude
-- RepoToTextForLLMs https://github.com/Doriandarko/RepoToTextForLLMs
-- storm https://github.com/stanford-oval/storm
-- storm claude https://github.com/angelina-yang/Claude_API_Contest/tree/main
-- MathVC https://github.com/MurongYue/MathVC
-
 ## agent
 - crewAI https://github.com/joaomdmoura/crewAI
 - autogen https://www.microsoft.com/en-us/research/project/autogen/
@@ -47,9 +37,20 @@
 - LanguageModelsasCompilers https://github.com/kyle8581/LanguageModelsasCompilers
 - lumos https://github.com/allenai/lumos
 - ReaLMistake https://github.com/psunlpgroup/ReaLMistake
+- eclair https://github.com/HazyResearch/eclair-agents
 
-## AI OS
+## frameworks/tools/application
+- Dspy https://github.com/stanfordnlp/dspy
+- Tool use https://twitter.com/omarsar0/status/1770497515898433896
+- Strong types https://github.com/bananaml/fructose
+- Phidata https://github.com/phidatahq/phidata/tree/main/cookbook/claude
+- RepoToTextForLLMs https://github.com/Doriandarko/RepoToTextForLLMs
+- storm https://github.com/stanford-oval/storm
+- storm claude https://github.com/angelina-yang/Claude_API_Contest/tree/main
+- MathVC https://github.com/MurongYue/MathVC
 - AIOS https://github.com/agiresearch/AIOS
+- cohere-terrarium https://github.com/cohere-ai/cohere-terrarium
+- data labeling https://github.com/HumanSignal/Adala
 
 ## Prompt
 - gpt-prompt-engineer https://github.com/mshumer/gpt-prompt-engineer
@@ -86,10 +87,4 @@
 - AgentCoder https://twitter.com/debarghya_das/status/1768468420058902536
 - 10 agent paper https://twitter.com/GptMaestro/status/1780605438092013797
 - OpenChatML https://twitter.com/erhartford/status/1780027791641391489
-
-## data labeling
-- https://github.com/HumanSignal/Adala
-
-## code interpreter
-- cohere-terrarium https://github.com/cohere-ai/cohere-terrarium
 
