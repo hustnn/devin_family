@@ -14,6 +14,7 @@ I did a lot of research on it and make a collection for the reference. Hope it c
 - CodeHalu https://github.com/yuchen814/CodeHalu
 - trove https://github.com/zorazrw/trove
 - ChatDev https://github.com/OpenBMB/ChatDev
+- Devon https://github.com/entropy-research/Devon
 
 ## agent
 - crewAI https://github.com/joaomdmoura/crewAI
@@ -41,6 +42,7 @@ I did a lot of research on it and make a collection for the reference. Hope it c
 - lumos https://github.com/allenai/lumos
 - ReaLMistake https://github.com/psunlpgroup/ReaLMistake
 - eclair https://github.com/HazyResearch/eclair-agents
+- agentscope https://github.com/modelscope/agentscope
 
 ## frameworks/tools/application
 - Dspy https://github.com/stanfordnlp/dspy
@@ -54,6 +56,7 @@ I did a lot of research on it and make a collection for the reference. Hope it c
 - AIOS https://github.com/agiresearch/AIOS
 - cohere-terrarium https://github.com/cohere-ai/cohere-terrarium
 - data labeling https://github.com/HumanSignal/Adala
+- data to paper https://github.com/Technion-Kishony-lab/data-to-paper
 
 ## Prompt
 - gpt-prompt-engineer https://github.com/mshumer/gpt-prompt-engineer
