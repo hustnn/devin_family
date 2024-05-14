@@ -15,6 +15,7 @@ I did a lot of research on it and make a collection for the reference. Hope it c
 - trove https://github.com/zorazrw/trove
 - ChatDev https://github.com/OpenBMB/ChatDev
 - Devon https://github.com/entropy-research/Devon
+- r2e https://github.com/r2e-project/r2e
 
 ## agent
 - crewAI https://github.com/joaomdmoura/crewAI
